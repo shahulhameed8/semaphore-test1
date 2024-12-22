@@ -5,3 +5,5 @@
     - name: print OS info
       ansible.builtin.package:
         name: apache2
+    - name: print test one
+
